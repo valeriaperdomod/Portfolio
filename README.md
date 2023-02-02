@@ -16,8 +16,8 @@ Introducción a Bases de datos.
 Competencias Transversales
 Inglés de Voxy
 
-* **SQL: Base de datos desde Cero - Udemy (13.5hs)
+* **SQL: Base de datos desde Cero - Udemy (13.5hs):**
   Creación, manipulación y estructura de una base de datos
 
-* **Desarrollo Web para principiantes - Udemy (9.5hs)
+* **Desarrollo Web para principiantes - Udemy (9.5hs):**
   HTML,CSS, Java Script y Bootstrap 5
