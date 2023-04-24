@@ -6,11 +6,10 @@ Tengo gusto por el trabajo en equipo, soy flexible, independiente y desarrollo c
 
 ## Cursos
 
-* **Desarrollo Web con HTML- EDUCACIÓN IT. Cursando
+* **Desarrollo Web con HTML- Educación IT. Cursando.
 Principales componentes:**
   Fundamentos del mundo HTML, utilización y aplicación
 de CSS, propiedades, atributos y tipografías.
-
 
 * **Gestiona tu Proyecto Scrum con Jira Agile- Udemy (5hs):**
   Metodología Scrum y creación de proyecto con Jira
@@ -27,4 +26,5 @@ Inglés de Voxy
 
 * **Desarrollo Web para principiantes - Udemy (9.5hs):**
   HTML,CSS, Java Script y Bootstrap 5
+
 
