@@ -4,20 +4,16 @@ Estoy interesada y me motiva el mundo IT. Tengo gusto por el diseño, la program
 Poseo conocimientos en Marketing Digital, HTML, CSS, Base de Datos SQL, informes y reportes de incidencias.
 Tengo gusto por el trabajo en equipo, soy flexible, independiente y desarrollo competencias como la autogestión y la comunicación.
 
-Para acceder a mi CV en PDF: https://drive.google.com/drive/folders/1tBTWV3tRnMgHWwJoOnT8JBiQoSEDnmk7
-
 ## Cursos
-* ** Desarrollo  Web con HTML - Educación IT (CURSANDO):**
+
+* **Desarrollo Web con HTML- EDUCACIÓN IT. Cursando
+Principales componentes:**
   Fundamentos del mundo HTML, utilización y aplicación
 de CSS, propiedades, atributos y tipografías.
 
+
 * **Gestiona tu Proyecto Scrum con Jira Agile- Udemy (5hs):**
   Metodología Scrum y creación de proyecto con Jira
-
-* **Nivel 2 - Jóvenes a Programar (CURSANDO):**
-  Software Testing and Automation y Gestión de Proyectos de Google
-Competencias Transversales
-Inglés de Voxy
 
 * **Tester de Software - Jóvenes a Programar (230hs):**
   Introducción a la programación: pensamiento computacional, introducción y fundamentos de la programación, programación imperativa, programación orientada a objetos.
@@ -31,3 +27,4 @@ Inglés de Voxy
 
 * **Desarrollo Web para principiantes - Udemy (9.5hs):**
   HTML,CSS, Java Script y Bootstrap 5
+
