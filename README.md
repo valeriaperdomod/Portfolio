@@ -7,6 +7,9 @@ Tengo gusto por el trabajo en equipo, soy flexible, independiente y desarrollo c
 Para acceder a mi CV en PDF: https://drive.google.com/drive/folders/1tBTWV3tRnMgHWwJoOnT8JBiQoSEDnmk7
 
 ## Cursos
+* ** Desarrollo  Web con HTML - Educación IT (CURSANDO):**
+  Fundamentos del mundo HTML, utilización y aplicación
+de CSS, propiedades, atributos y tipografías.
 
 * **Gestiona tu Proyecto Scrum con Jira Agile- Udemy (5hs):**
   Metodología Scrum y creación de proyecto con Jira
