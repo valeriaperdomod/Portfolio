@@ -4,6 +4,8 @@ Estoy interesada y me motiva el mundo IT. Tengo gusto por el diseño, la program
 Poseo conocimientos en Marketing Digital, HTML, CSS, Base de Datos SQL, informes y reportes de incidencias.
 Tengo gusto por el trabajo en equipo, soy flexible, independiente y desarrollo competencias como la autogestión y la comunicación.
 
+Para acceder a mi CV en PDF dar clik en el siguiente link:  https://drive.google.com/drive/u/1/folders/1tBTWV3tRnMgHWwJoOnT8JBiQoSEDnmk7
+
 ## Cursos
 
 * **Desarrollo Web con HTML- Educación IT. Cursando.
